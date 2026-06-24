@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "0737f9d55b3cf658",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c126344e46bbff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5f5482e7162383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-内容单元库/OPI/OPI-185_连操盘手是什么都不知道就想当——概念借用症——真操盘手是让团队离开自己还能自我进化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OPI-185_连操盘手是什么都不知道就想当——概念借用症——真操盘手是让团队离开自己还能自我进化"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1ba6404c119edd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d783d631ebe1b71c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06caf93a2a1df8be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "68b9d2ea32648501",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "499c7b25c67b9f43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47f6113048c26478",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f42e5f49c9b4325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8472453510c97bfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-原始素材区/完整副本/对话/LD-478.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "LD-478 的反向链接列表"
+            }
+          },
+          {
+            "id": "f3f68ced221a67c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-原始素材区/完整副本/对话/LD-478.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LD-478 的出链列表"
+            }
+          },
+          {
+            "id": "493018ddb19f6d34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "87e48df77b95bfc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d1a8acfa31e84e92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-原始素材区/完整副本/对话/LD-478.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "LD-478 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "ab5f5482e7162383",
+  "lastOpenFiles": [
+    "02-内容单元库/OPI/OPI-778_亚马逊店铺还是做培训——真正卖货赚钱的人根本不屑于干培训.md",
+    "02-内容单元库/CON/CON-025_赛道选择律——深耕优于换道.md",
+    "02-内容单元库/CON/CON-007_阶段复利——一切分阶段没有快.md",
+    "02-内容单元库/CON/CON-003_人力漏斗——团队搭建的系统流程.md",
+    "01-原始素材区/完整副本/对话/LD-478.md",
+    "01-原始素材区/完整副本/对话/LD-412.md"
+  ]
+}
